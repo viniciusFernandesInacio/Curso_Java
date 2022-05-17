@@ -1,10 +1,11 @@
-package Aula03;
 
-public class comandos_condicionais {
+
+public class au3comandos_condicionais {
     public static void main(String[] args) {
+        
         // == > < >= <= != ! (true/false)
         // &&(AND) ||(OR)
-        //? : (Operação ternaria!)
+        //? : (Operação ternária)
         
         int nota = 65;
         int media = 60;

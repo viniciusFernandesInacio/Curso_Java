@@ -1,6 +1,6 @@
-package Aula03;
 
-public class SWITCH {
+
+public class au3SWITCH {
     public static void main(String[] args) {
         
         int pos = 1;
