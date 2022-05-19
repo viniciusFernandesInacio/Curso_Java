@@ -1,6 +1,6 @@
 
 
-public class au3SWITCH {
+public class au03SWITCH {
     public static void main(String[] args) {
         
         int pos = 1;
