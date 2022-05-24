@@ -8,15 +8,15 @@ public class au05loops {
         Scanner scan = new Scanner(System.in);
 
         /*FOR
-        for(int cont = 0 ; cont < 5 ; cont++) {
+        for(int cont = 0 ; cont < 100 ; cont++) {
             System.out.println(cont + "Biscoito");
         }*/
 
         /*
         int cont = 0;
-        while(cont != 7){
+        while(cont < 100){
             System.out.print("Digite um numero: ");
-            cont = scan.nextInt();
+            cont++
         }*/
 
 
@@ -24,7 +24,7 @@ public class au05loops {
         do{
             System.out.println(cont + "Biscoito");
             cont++;
-        }while(cont < 7);
+        }while(cont < 100);
         System.out.println("Fim do programa.");
     }   
 }
