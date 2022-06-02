@@ -1,11 +1,5 @@
-import java.util.Scanner;
-
-import javax.sound.sampled.SourceDataLine;
-
 public class au05loops {
     public static void main(String[] args) {
-
-        Scanner scan = new Scanner(System.in);
 
         /*FOR
         for(int cont = 0 ; cont < 100 ; cont++) {
@@ -18,7 +12,6 @@ public class au05loops {
             System.out.print("Digite um numero: ");
             cont++
         }*/
-
 
         int cont = 0;
         do{
