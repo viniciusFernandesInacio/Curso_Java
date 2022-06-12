@@ -1,4 +1,4 @@
-public class au02variaveis {
+public class Au02variaveis {
     public static void main(String[] args) {
 
         int n1 = 10, n2 = 20, n3 = 30;

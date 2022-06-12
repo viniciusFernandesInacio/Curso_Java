@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class au04Scanner_input {
+public class Au04Scanner_input {
     public static void main(String[] args) {
         
         try (Scanner scan = new Scanner(System.in)) {

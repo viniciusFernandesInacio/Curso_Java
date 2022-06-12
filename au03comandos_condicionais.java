@@ -1,6 +1,6 @@
 
 
-public class au03comandos_condicionais {
+public class Au03comandos_condicionais {
     public static void main(String[] args) {
         
         // == > < >= <= != ! (true/false)

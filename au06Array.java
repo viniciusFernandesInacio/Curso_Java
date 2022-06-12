@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class au06Array {
+public class Au06Array {
     public static void main(String[] args) {
 
        final int tam=5;     //Criando uma constante para usar futuramente.

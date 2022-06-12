@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class au07ArrayPt2 {
+public class Au07ArrayPt2 {
 
     public static void main(String[] args){
         
@@ -18,13 +18,13 @@ public class au07ArrayPt2 {
 
         Arrays.sort(num);
         pos=Arrays.binarySearch(num, p);  //Metodo que procura um elemento dentro de um array e retorna sua posição, porém, a array deve estar ordenada (usar metodo sort antes).
-        System.out.printf("O elemento %d esta na array? %s",p,pos > 0 ? "Sim" : "Nao");
+        System.out.printf("O elemento %d esta na array? %s\n",p,pos > 0 ? "Sim" : "Nao");
         
         /*for(int i=0;i<num.length;i++){  \\Faza impressão dos elementos de um array.
             System.out.printf("%d - ",num[i]);
         }*/
-        /*for(int n:numeros){  //Laço FOR especial para arrays. Este laço imprime os elelmentos de uma array de forma mais fácil.
+        for(int n:numeros){  //Laço FOR especial para arrays. Este laço imprime os elelmentos de uma array de forma mais fácil.
             System.out.printf("%d - ",n);
-        }*/
+        }
     }
 }

@@ -1,4 +1,4 @@
-public class au05loops {
+public class Au05loops {
     public static void main(String[] args) {
 
         /*FOR
