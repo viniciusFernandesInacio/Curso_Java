@@ -1,4 +1,4 @@
-package aula10classes;
+package aula10_11classes;
 /*-->private public dizem o escopo ou onde esta classe será visivel no nosso programa
 -->public quer dizer que qualquer outra classe que usar esta ira ter acesso a todos os metodos contidos aqui 
 -->classe é a representaçao de um objeto, são as regras que o objeto vai seguir quando for instanciado

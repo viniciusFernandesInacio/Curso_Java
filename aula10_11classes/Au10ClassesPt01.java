@@ -1,5 +1,5 @@
-package aula11get_set;
-public class GetSet {
+package aula10_11classes;
+public class Au10ClassesPt01 {
   public static void main(String[] args) {//main indica que este metodo e o metodo principal do nosso programa
     
     //Processo de instanciaçao de um novo jogador na classe jogador
