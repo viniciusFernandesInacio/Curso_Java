@@ -13,7 +13,6 @@ public class InterfaceAula {
         a2.info();
         a2.atacar(a3);
         System.out.println(a3.getVivo());
-        a3.mover();
         a2.info();
         a1.comer(v1.getMassa());
         a1.comer(v3.getMassa());

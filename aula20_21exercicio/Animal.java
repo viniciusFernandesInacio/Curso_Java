@@ -53,7 +53,7 @@ abstract class Animal implements SerVivo{
             System.out.println("==============================");
         }
     }
-    public void mover(){
+    public void mover(int x,int y){
         if(this.vivo){
             this.x+=this.vel;
             this.y+=this.vel;
