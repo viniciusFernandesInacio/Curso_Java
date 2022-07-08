@@ -1,4 +1,4 @@
-package aula39string_p1;
+package aula39strings_p1;
 
 public class StringP1 {
     public static void main(String[] args) {
